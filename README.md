@@ -1,4 +1,5 @@
-# Securechain Rotate - AI Driven Automated Cryptographic Key Rotation with Blockchain Auditing
+# SecureChain Rotate—AIDriven Key Rotation with Blockchain
+Auditing 
 
 ## Overview
 SecureChain Rotate is a cryptographic key management and rotation system designed to enhance security through automated key lifecycle management. It integrates **quantum-resistant key generation, blockchain-based audit logging, AI-driven threat detection, and fine-grained access control.**
