@@ -97,13 +97,3 @@ RUN npm install --production
 EXPOSE 3001
 CMD ["node", "server.js"]
 ```
-
-## 📊 Monitoring
-Access real-time metrics at:
-- `http://localhost:3001/api/system/status`
-
-
-## 📜 License
-Apache 2.0 (See [LICENSE](LICENSE))
-
----
